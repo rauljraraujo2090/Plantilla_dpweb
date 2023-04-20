@@ -49,6 +49,26 @@
 
              <h5 class="card-title">Ahora: 107,75 US$US$10775</h5>
              <p class="card-text">Regular: 136,00 US$US$13600</p>
+
+
+
+
+
+             <div class="card">
+  <h5 class="card-header">talla</h5>
+  <div class="card-body">
+    <button class="btn btn-primary" type="submit">S</button>
+    <button class="btn btn-primary" type="submit">M</button>
+    <button class="btn btn-primary" type="submit">L</button>
+    <button class="btn btn-primary" type="submit">XL</button>
+    <h5 class="">Cantidad</h5>
+   
+  </div>
+</div>
+
+
+
+
              <a href="#" class="btn btn-primary">Ver Ahora</a>
              <!---<a href="#" class="btn btn-primary">Añadir al carrito</a>--->
            </div>
