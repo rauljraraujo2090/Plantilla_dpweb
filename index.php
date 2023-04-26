@@ -65,7 +65,7 @@
            <div class="card-body">
              <h5 class="card-title">Primer Equipo</h5>
              <p class="card-text">El Paris Saint-Germain Football Club, conocido popularmente por sus siglas PSG, es una entidad polideportiva francesa con sede en París.</p>
-             <a href="#" class="btn btn-primary">Ver Ahora</a>
+             <a href="comprar.php" class="btn btn-primary">Ver Ahora y comprar</a>
              <!---<a href="#" class="btn btn-primary">Añadir al carrito</a>--->
            </div>
          </div>
